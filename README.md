@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Java and python**
 
-- 🤝 I’m looking for help with **my prof**
+- 🤝 Status: **Single**
 
-- 💬 Ask me about **myself**
+- 💬 Ask me about **Basic programming**
 
 - 📫 How to reach me **escalante2221690@mkt.ceu.edu.ph**
 
-- ⚡ Fun fact **badly want to sing but cannot**
+- ⚡ My hobbies **Workout, Cycling, and DrivingI **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
