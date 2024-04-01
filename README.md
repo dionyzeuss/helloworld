@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently a student **Makati**
+- 🔭 I’m currently a student in **Centro Escolar University - Makati**
 
-- 🌱 I’m currently learning **Java and python**
+- 🌱 I’m currently learning **Java,Python,HtML & C++**
 
-- 🤝 I’m looking for help with **my prof**
+- 🤝 I’m looking for help with **my professors and my classmates**
 
 - 💬 Ask me about **myself**
 
 - 📫 How to reach me **escalante2221690@mkt.ceu.edu.ph**
 
-- ⚡ Fun fact **badly want to sing but cannot**
+- ⚡ Hobbies **Gym, cycling, and driving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
