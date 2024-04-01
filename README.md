@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-![GIF](https://tenor.com/view/good-morning-sunshine-hello-wake-up-gif-13063022)
+
+![good-morning-sunshine](https://github.com/dionyzeuss/helloworld/assets/165056679/0cfe76e1-5e1a-4649-82fa-7f25ba45d9a9)
 
 
 - 🔭 I’m currently a student in **Centro Escolar University - Makati**
