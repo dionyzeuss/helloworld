@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java and python**
 
-- 🤝 Status: **Single**
+- 🤝 Status: **Single ready to jingle**
 
 - 💬 Ask me about **Basic programming**
 
