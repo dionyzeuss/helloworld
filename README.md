@@ -1,4 +1,4 @@
-<div style="border: 1px solid black; padding: 10px; border-radius: 10px; background-color: #f0f0f0;">
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 
 <h1 align="center">Hi 👋, I'm Domnic Escalante</h1>
 <h3 align="center">A passionate front/backend developer from Philppines</h3>
